@@ -6,6 +6,13 @@
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other people.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love coding and gaming
+- 💻 I love building cool stuffs
+- 💬 Ask me about anything! I am happy to help
+- 📫 Reach me: borismarkov_@abv.bg
+
+
+
 
 
 ### Connect with me:
