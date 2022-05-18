@@ -18,7 +18,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="BorisGM | Linkedin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+[<img align="left" alt="BorisGM | Linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 
 <br />
 
