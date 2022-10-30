@@ -14,7 +14,7 @@
 
 ### GitHub Stats
 
-https://camo.githubusercontent.com/814b065200beda95a0c3e158b8b31cadddcea863994584eef67e123057bed766/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d53756268616d7072656574267468656d653d6461726b
+
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BorisGM&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisGM&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
