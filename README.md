@@ -1,3 +1,6 @@
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ### Hi there.
 
 ### I'm Boris, second year student at SoftUni and aspiring software developer!
@@ -20,7 +23,7 @@
 
 
 
-| ------------- | ------------- |
+
 
 
 ### Connect with me:
