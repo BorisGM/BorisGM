@@ -18,7 +18,7 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BorisGM&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisGM&layout=compact&hide_border=true" /></a> |
+
 
 | ------------- | ------------- |
 
